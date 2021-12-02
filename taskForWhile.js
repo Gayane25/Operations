@@ -12,3 +12,10 @@ while (i < a.length) {
   i++;
   console.log('for', i, a[i]);
 }
+
+// do while loop
+let j = 0;
+do {
+  j++;
+  console.log('for', j, a[j]);
+} while (j < a.length);
