@@ -6,5 +6,3 @@ let numStr = number.toString().split('');
 let maxVal = Math.max(...numStr);
 let minVal = Math.min(...numStr);
 console.log(maxVal - minVal);
-
-//2.Convert base-2 number to base-10
